@@ -1,0 +1,7 @@
+1 - Ejecutar el archivo "Proyecto Gestion lab 2.exe" 
+2 - Usurio Registrado
+Usuario:angel
+Contraseña: angel
+
+2 - Alta a usuarios nuevos dentro de "OPCIONES USUARIO"
+CLAVE EMPRESARIAL: afk

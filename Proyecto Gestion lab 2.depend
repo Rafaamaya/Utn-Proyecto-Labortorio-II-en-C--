@@ -1,0 +1,651 @@
+# depslib dependency file v1.0
+1464262348 source:d:\programa gestion\proyecto gestion lab 2\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	<clocale>
+	<windows.h>
+	"Funciones/Otras.h"
+	"Funciones/Ingreso.h"
+	"Menu/Clientes.h"
+	"Menu/Presupuesto.h"
+
+1464262310 d:\programa gestion\proyecto gestion lab 2\menu\clientes.h
+
+1464218658 source:g:\programa gestion\proyecto gestion lab 2\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	<clocale>
+	"Funciones/Ingreso.h"
+	"Menu/Clientes.h"
+	"Menu/Presupuesto.h"
+	"Funciones/Otras.h"
+
+1464218164 g:\programa gestion\proyecto gestion lab 2\menu\clientes.h
+
+1464218164 g:\programa gestion\proyecto gestion lab 2\menu\presupuesto.h
+
+1464050654 source:e:\programa gestion\proyecto gestion lab 2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	<clocale>
+	"Menu/Clientes.h"
+	"Menu/Presupuesto.h"
+	"Funciones/Ingreso.h"
+
+1464041046 e:\programa gestion\proyecto gestion lab 2\menu\clientes.h
+
+1464048996 e:\programa gestion\proyecto gestion lab 2\menu\presupuesto.h
+
+1464053712 e:\programa gestion\proyecto gestion lab 2\funciones\ingreso.h
+
+1464220656 g:\programa gestion\proyecto gestion lab 2\funciones\ingreso.h
+
+1464060656 source:f:\programa gestion\proyecto gestion lab 2\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	<clocale>
+	"Funciones/Ingreso.h"
+	"Menu/Clientes.h"
+	"Menu/Presupuesto.h"
+
+1464063066 f:\programa gestion\proyecto gestion lab 2\funciones\ingreso.h
+
+1464196982 f:\programa gestion\proyecto gestion lab 2\menu\clientes.h
+
+1464048996 f:\programa gestion\proyecto gestion lab 2\menu\presupuesto.h
+
+1464218164 g:\programa gestion\proyecto gestion lab 2\funciones\otras.h
+
+1464264044 d:\programa gestion\proyecto gestion lab 2\funciones\ingreso.h
+
+1464262236 d:\programa gestion\proyecto gestion lab 2\menu\presupuesto.h
+
+1464262164 d:\programa gestion\proyecto gestion lab 2\funciones\otras.h
+
+1464271247 source:c:\users\administrador\desktop\nueva carpeta\proyecto gestion lab 2 26-5\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	<clocale>
+	<windows.h>
+	"Funciones/Otras.h"
+	"Funciones/Ingreso.h"
+	"Menu/Clientes.h"
+	"Menu/Presupuesto.h"
+	"Menu/Reportes.h"
+
+1464262164 c:\users\administrador\desktop\nueva carpeta\proyecto gestion lab 2 26-5\funciones\otras.h
+
+1464271847 c:\users\administrador\desktop\nueva carpeta\proyecto gestion lab 2 26-5\funciones\ingreso.h
+
+1464273776 c:\users\administrador\desktop\nueva carpeta\proyecto gestion lab 2 26-5\menu\clientes.h
+
+1464262236 c:\users\administrador\desktop\nueva carpeta\proyecto gestion lab 2 26-5\menu\presupuesto.h
+
+1464274347 c:\users\administrador\desktop\nueva carpeta\proyecto gestion lab 2 26-5\menu\reportes.h
+
+1464293952 source:d:\programa gestion\proyecto gestion lab 2 26-5\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	<clocale>
+	<windows.h>
+	"Funciones/Otras.h"
+	"Funciones/Ingreso.h"
+	"Menu/Clientes.h"
+	"Menu/Presupuesto.h"
+	"Menu/Reportes.h"
+
+1464286242 d:\programa gestion\proyecto gestion lab 2 26-5\funciones\otras.h
+
+1464295444 d:\programa gestion\proyecto gestion lab 2 26-5\funciones\ingreso.h
+
+1464295800 d:\programa gestion\proyecto gestion lab 2 26-5\menu\clientes.h
+
+1464284656 d:\programa gestion\proyecto gestion lab 2 26-5\menu\presupuesto.h
+
+1464274348 d:\programa gestion\proyecto gestion lab 2 26-5\menu\reportes.h
+
+1464293952 source:g:\programa gestion\proyecto gestion lab 2 26-5\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	<clocale>
+	<windows.h>
+	"Funciones/Otras.h"
+	"Funciones/Ingreso.h"
+	"Menu/Clientes.h"
+	"Menu/Presupuesto.h"
+	"Menu/Reportes.h"
+
+1464286242 g:\programa gestion\proyecto gestion lab 2 26-5\funciones\otras.h
+
+1464552338 g:\programa gestion\proyecto gestion lab 2 26-5\funciones\ingreso.h
+
+1464552044 g:\programa gestion\proyecto gestion lab 2 26-5\menu\clientes.h
+
+1464284656 g:\programa gestion\proyecto gestion lab 2 26-5\menu\presupuesto.h
+
+1464274348 g:\programa gestion\proyecto gestion lab 2 26-5\menu\reportes.h
+
+1464747840 source:g:\programa gestion\proyecto\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	<clocale>
+	<windows.h>
+	<ctime>
+	"Funciones/Otras.h"
+	"Funciones/Ingreso.h"
+	"Menu/Clientes.h"
+	"Menu/Presupuesto.h"
+	"Menu/Reportes.h"
+
+1464747436 g:\programa gestion\proyecto\funciones\otras.h
+
+1464748540 g:\programa gestion\proyecto\funciones\ingreso.h
+
+1464738822 g:\programa gestion\proyecto\menu\clientes.h
+
+1464284656 g:\programa gestion\proyecto\menu\presupuesto.h
+
+1464274348 g:\programa gestion\proyecto\menu\reportes.h
+
+1464877256 source:d:\programa gestion\proyecto\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	<clocale>
+	<windows.h>
+	<ctime>
+	"Funciones/Otras.h"
+	"Funciones/Ingreso.h"
+	"Menu/Clientes.h"
+	"Menu/Reportes.h"
+	"Menu/Articulos.h"
+	"Menu/Proveedores.h"
+	"Menu/Ventas.h"
+	"Menu/Presupuesto.h"
+
+1464877504 d:\programa gestion\proyecto\funciones\otras.h
+
+1464876888 d:\programa gestion\proyecto\funciones\ingreso.h
+
+1464864212 d:\programa gestion\proyecto\menu\clientes.h
+
+1464865356 d:\programa gestion\proyecto\menu\presupuesto.h
+
+1464274348 d:\programa gestion\proyecto\menu\reportes.h
+
+1464878330 d:\programa gestion\proyecto\menu\articulos.h
+
+1464864212 d:\programa gestion\proyecto\menu\proveedores.h
+
+1464823278 source:c:\users\tobias\desktop\proyecto\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	<clocale>
+	<windows.h>
+	<ctime>
+	"Funciones/Otras.h"
+	"Funciones/Ingreso.h"
+	"Menu/Clientes.h"
+	"Menu/Reportes.h"
+	"Menu/Articulos.h"
+	"Menu/Proveedores.h"
+	"Menu/Ventas.h"
+	"Menu/Presupuesto.h"
+
+1464802886 c:\users\tobias\desktop\proyecto\funciones\otras.h
+
+1464811892 c:\users\tobias\desktop\proyecto\funciones\ingreso.h
+
+1464816733 c:\users\tobias\desktop\proyecto\menu\clientes.h
+
+1464823346 c:\users\tobias\desktop\proyecto\menu\presupuesto.h
+
+1464274348 c:\users\tobias\desktop\proyecto\menu\reportes.h
+
+1464819197 c:\users\tobias\desktop\proyecto\menu\articulos.h
+
+1464811204 c:\users\tobias\desktop\proyecto\menu\proveedores.h
+
+1464822195 c:\users\tobias\desktop\proyecto\menu\ventas.h
+
+1464823278 source:c:\users\tobias\desktop\proyecto - copia\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	<clocale>
+	<windows.h>
+	<ctime>
+	"Funciones/Otras.h"
+	"Funciones/Ingreso.h"
+	"Menu/Clientes.h"
+	"Menu/Reportes.h"
+	"Menu/Articulos.h"
+	"Menu/Proveedores.h"
+	"Menu/Ventas.h"
+	"Menu/Presupuesto.h"
+
+1464802886 c:\users\tobias\desktop\proyecto - copia\funciones\otras.h
+
+1464811892 c:\users\tobias\desktop\proyecto - copia\funciones\ingreso.h
+
+1464864211 c:\users\tobias\desktop\proyecto - copia\menu\clientes.h
+
+1464274348 c:\users\tobias\desktop\proyecto - copia\menu\reportes.h
+
+1464864211 c:\users\tobias\desktop\proyecto - copia\menu\articulos.h
+
+1464864211 c:\users\tobias\desktop\proyecto - copia\menu\proveedores.h
+
+1464865968 c:\users\tobias\desktop\proyecto - copia\menu\ventas.h
+
+1464865354 c:\users\tobias\desktop\proyecto - copia\menu\presupuesto.h
+
+1464870946 source:d:\prototipo\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	<clocale>
+	<windows.h>
+	<ctime>
+	"Funciones/Otras.h"
+	"Funciones/Ingreso.h"
+	"Menu/Clientes.h"
+	"Menu/Reportes.h"
+	"Menu/Articulos.h"
+	"Menu/Proveedores.h"
+	"Menu/Ventas.h"
+	"Menu/Presupuesto.h"
+
+1464802886 d:\prototipo\funciones\otras.h
+
+1464868182 d:\prototipo\funciones\ingreso.h
+
+1464864212 d:\prototipo\menu\clientes.h
+
+1464274348 d:\prototipo\menu\reportes.h
+
+1464864212 d:\prototipo\menu\articulos.h
+
+1464864212 d:\prototipo\menu\proveedores.h
+
+1464866000 d:\prototipo\menu\ventas.h
+
+1464865356 d:\prototipo\menu\presupuesto.h
+
+1464866000 d:\programa gestion\proyecto\menu\ventas.h
+
+1464877256 source:c:\users\elias\desktop\laboratorio ii\copia proyecto\programa gestion\proyecto\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	<clocale>
+	<windows.h>
+	<ctime>
+	"Funciones/Otras.h"
+	"Funciones/Ingreso.h"
+	"Menu/Clientes.h"
+	"Menu/Reportes.h"
+	"Menu/Articulos.h"
+	"Menu/Proveedores.h"
+	"Menu/Ventas.h"
+	"Menu/Presupuesto.h"
+
+1464877504 c:\users\elias\desktop\laboratorio ii\copia proyecto\programa gestion\proyecto\funciones\otras.h
+
+1464876888 c:\users\elias\desktop\laboratorio ii\copia proyecto\programa gestion\proyecto\funciones\ingreso.h
+
+1464864212 c:\users\elias\desktop\laboratorio ii\copia proyecto\programa gestion\proyecto\menu\clientes.h
+
+1464274348 c:\users\elias\desktop\laboratorio ii\copia proyecto\programa gestion\proyecto\menu\reportes.h
+
+1464878330 c:\users\elias\desktop\laboratorio ii\copia proyecto\programa gestion\proyecto\menu\articulos.h
+
+1464864212 c:\users\elias\desktop\laboratorio ii\copia proyecto\programa gestion\proyecto\menu\proveedores.h
+
+1464866000 c:\users\elias\desktop\laboratorio ii\copia proyecto\programa gestion\proyecto\menu\ventas.h
+
+1464865356 c:\users\elias\desktop\laboratorio ii\copia proyecto\programa gestion\proyecto\menu\presupuesto.h
+
+1464877256 source:c:\users\elias\desktop\laboratorio ii\programa gestion\proyecto\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	<clocale>
+	<windows.h>
+	<ctime>
+	"Funciones/Otras.h"
+	"Funciones/Ingreso.h"
+	"Menu/Clientes.h"
+	"Menu/Reportes.h"
+	"Menu/Articulos.h"
+	"Menu/Proveedores.h"
+	"Menu/Ventas.h"
+	"Menu/Presupuesto.h"
+
+1464877504 c:\users\elias\desktop\laboratorio ii\programa gestion\proyecto\funciones\otras.h
+
+1464876888 c:\users\elias\desktop\laboratorio ii\programa gestion\proyecto\funciones\ingreso.h
+
+1465347081 c:\users\elias\desktop\laboratorio ii\programa gestion\proyecto\menu\clientes.h
+
+1464274348 c:\users\elias\desktop\laboratorio ii\programa gestion\proyecto\menu\reportes.h
+
+1465261695 c:\users\elias\desktop\laboratorio ii\programa gestion\proyecto\menu\articulos.h
+
+1465261695 c:\users\elias\desktop\laboratorio ii\programa gestion\proyecto\menu\proveedores.h
+
+1464866000 c:\users\elias\desktop\laboratorio ii\programa gestion\proyecto\menu\ventas.h
+
+1464865356 c:\users\elias\desktop\laboratorio ii\programa gestion\proyecto\menu\presupuesto.h
+
+1466693800 source:g:\programa gestion\prototipo\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	<clocale>
+	<windows.h>
+	<ctime>
+	<vector>
+	"Funciones/Otras.h"
+	"Funciones/Ingreso.h"
+	"Menu/Clientes.h"
+	"Menu/Reportes.h"
+	"Menu/Proveedores.h"
+	"Menu/Articulos.h"
+	"Menu/Ventas.h"
+	"Menu/Presupuesto.h"
+	"Funciones/Configuracion.h"
+	"Menu/Agenda.h"
+
+1466704386 g:\programa gestion\prototipo\funciones\otras.h
+
+1466630608 g:\programa gestion\prototipo\funciones\ingreso.h
+
+1466445648 g:\programa gestion\prototipo\menu\clientes.h
+
+1466632890 g:\programa gestion\prototipo\menu\reportes.h
+
+1466704622 g:\programa gestion\prototipo\menu\articulos.h
+
+1466704808 g:\programa gestion\prototipo\menu\proveedores.h
+
+1466686900 g:\programa gestion\prototipo\menu\ventas.h
+
+1466685854 g:\programa gestion\prototipo\menu\presupuesto.h
+
+1464877256 source:e:\programa gestion\prototipo\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	<clocale>
+	<windows.h>
+	<ctime>
+	"Funciones/Otras.h"
+	"Funciones/Ingreso.h"
+	"Menu/Clientes.h"
+	"Menu/Reportes.h"
+	"Menu/Articulos.h"
+	"Menu/Proveedores.h"
+	"Menu/Ventas.h"
+	"Menu/Presupuesto.h"
+
+1465410568 e:\programa gestion\prototipo\funciones\otras.h
+
+1464876888 e:\programa gestion\prototipo\funciones\ingreso.h
+
+1465413920 e:\programa gestion\prototipo\menu\clientes.h
+
+1464274348 e:\programa gestion\prototipo\menu\reportes.h
+
+1465415486 e:\programa gestion\prototipo\menu\articulos.h
+
+1465414552 e:\programa gestion\prototipo\menu\proveedores.h
+
+1465412496 e:\programa gestion\prototipo\menu\ventas.h
+
+1465410482 e:\programa gestion\prototipo\menu\presupuesto.h
+
+1466361492 source:f:\programa gestion\prototipo\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	<clocale>
+	<windows.h>
+	<ctime>
+	"Funciones/Otras.h"
+	"Funciones/Ingreso.h"
+	"Menu/Clientes.h"
+	"Menu/Reportes.h"
+	"Menu/Articulos.h"
+	"Menu/Proveedores.h"
+	"Menu/Ventas.h"
+	"Menu/Presupuesto.h"
+	"Funciones/Configuracion.h"
+
+1466444254 f:\programa gestion\prototipo\funciones\otras.h
+
+1466449718 f:\programa gestion\prototipo\funciones\ingreso.h
+
+1466445648 f:\programa gestion\prototipo\menu\clientes.h
+
+1464274348 f:\programa gestion\prototipo\menu\reportes.h
+
+1466307826 f:\programa gestion\prototipo\menu\articulos.h
+
+1466449414 f:\programa gestion\prototipo\menu\proveedores.h
+
+1466085556 f:\programa gestion\prototipo\menu\ventas.h
+
+1466085556 f:\programa gestion\prototipo\menu\presupuesto.h
+
+1466706430 g:\programa gestion\prototipo\funciones\configuracion.h
+
+1466692480 source:d:\programa gestion\prototipo\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	<clocale>
+	<windows.h>
+	<ctime>
+	<vector>
+	"Funciones/Otras.h"
+	"Funciones/Ingreso.h"
+	"Menu/Clientes.h"
+	"Menu/Reportes.h"
+	"Menu/Proveedores.h"
+	"Menu/Articulos.h"
+	"Menu/Ventas.h"
+	"Menu/Presupuesto.h"
+	"Funciones/Configuracion.h"
+	"Menu/Agenda.h"
+
+1466691746 d:\programa gestion\prototipo\funciones\otras.h
+
+1466630608 d:\programa gestion\prototipo\funciones\ingreso.h
+
+1466445648 d:\programa gestion\prototipo\menu\clientes.h
+
+1466632890 d:\programa gestion\prototipo\menu\reportes.h
+
+1466693710 d:\programa gestion\prototipo\menu\articulos.h
+
+1466449414 d:\programa gestion\prototipo\menu\proveedores.h
+
+1466686900 d:\programa gestion\prototipo\menu\ventas.h
+
+1466685854 d:\programa gestion\prototipo\menu\presupuesto.h
+
+1466682986 d:\programa gestion\prototipo\funciones\configuracion.h
+
+1466693800 source:c:\users\elias\desktop\laboratorio ii\programa gestion\prototipo\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	<clocale>
+	<windows.h>
+	<ctime>
+	<vector>
+	"Funciones/Otras.h"
+	"Funciones/Ingreso.h"
+	"Menu/Clientes.h"
+	"Menu/Reportes.h"
+	"Menu/Proveedores.h"
+	"Menu/Articulos.h"
+	"Menu/Ventas.h"
+	"Menu/Presupuesto.h"
+	"Funciones/Configuracion.h"
+	"Menu/Agenda.h"
+
+1466704386 c:\users\elias\desktop\laboratorio ii\programa gestion\prototipo\funciones\otras.h
+
+1466630608 c:\users\elias\desktop\laboratorio ii\programa gestion\prototipo\funciones\ingreso.h
+
+1466445648 c:\users\elias\desktop\laboratorio ii\programa gestion\prototipo\menu\clientes.h
+
+1466632890 c:\users\elias\desktop\laboratorio ii\programa gestion\prototipo\menu\reportes.h
+
+1466704622 c:\users\elias\desktop\laboratorio ii\programa gestion\prototipo\menu\articulos.h
+
+1466704808 c:\users\elias\desktop\laboratorio ii\programa gestion\prototipo\menu\proveedores.h
+
+1466686900 c:\users\elias\desktop\laboratorio ii\programa gestion\prototipo\menu\ventas.h
+
+1466685854 c:\users\elias\desktop\laboratorio ii\programa gestion\prototipo\menu\presupuesto.h
+
+1466706430 c:\users\elias\desktop\laboratorio ii\programa gestion\prototipo\funciones\configuracion.h
+
+1466447576 f:\programa gestion\prototipo\funciones\configuracion.h
+
+1466685396 d:\programa gestion\prototipo\menu\agenda.h
+
+1466685396 g:\programa gestion\prototipo\menu\agenda.h
+
+1466685396 c:\users\elias\desktop\laboratorio ii\programa gestion\prototipo\menu\agenda.h
+
+1466693800 source:c:\users\eliass\desktop\utn\utn 2do cuatri\laboratorio ii\programa gestion\prototipo\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	<clocale>
+	<windows.h>
+	<ctime>
+	<vector>
+	"Funciones/Otras.h"
+	"Funciones/Ingreso.h"
+	"Menu/Clientes.h"
+	"Menu/Reportes.h"
+	"Menu/Proveedores.h"
+	"Menu/Articulos.h"
+	"Menu/Ventas.h"
+	"Menu/Presupuesto.h"
+	"Funciones/Configuracion.h"
+	"Menu/Agenda.h"
+
+1466704386 c:\users\eliass\desktop\utn\utn 2do cuatri\laboratorio ii\programa gestion\prototipo\funciones\otras.h
+
+1466630608 c:\users\eliass\desktop\utn\utn 2do cuatri\laboratorio ii\programa gestion\prototipo\funciones\ingreso.h
+
+1466445648 c:\users\eliass\desktop\utn\utn 2do cuatri\laboratorio ii\programa gestion\prototipo\menu\clientes.h
+
+1466632890 c:\users\eliass\desktop\utn\utn 2do cuatri\laboratorio ii\programa gestion\prototipo\menu\reportes.h
+
+1466704808 c:\users\eliass\desktop\utn\utn 2do cuatri\laboratorio ii\programa gestion\prototipo\menu\proveedores.h
+
+1466704622 c:\users\eliass\desktop\utn\utn 2do cuatri\laboratorio ii\programa gestion\prototipo\menu\articulos.h
+
+1466686900 c:\users\eliass\desktop\utn\utn 2do cuatri\laboratorio ii\programa gestion\prototipo\menu\ventas.h
+
+1466685854 c:\users\eliass\desktop\utn\utn 2do cuatri\laboratorio ii\programa gestion\prototipo\menu\presupuesto.h
+
+1466706430 c:\users\eliass\desktop\utn\utn 2do cuatri\laboratorio ii\programa gestion\prototipo\funciones\configuracion.h
+
+1466685396 c:\users\eliass\desktop\utn\utn 2do cuatri\laboratorio ii\programa gestion\prototipo\menu\agenda.h
+
+1466693800 source:c:\users\rafa\desktop\prototipo\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<cstdio>
+	<string.h>
+	<clocale>
+	<windows.h>
+	<ctime>
+	<vector>
+	"Funciones/Otras.h"
+	"Funciones/Ingreso.h"
+	"Menu/Clientes.h"
+	"Menu/Reportes.h"
+	"Menu/Proveedores.h"
+	"Menu/Articulos.h"
+	"Menu/Ventas.h"
+	"Menu/Presupuesto.h"
+	"Funciones/Configuracion.h"
+	"Menu/Agenda.h"
+
+1466704386 c:\users\rafa\desktop\prototipo\funciones\otras.h
+
+1466630608 c:\users\rafa\desktop\prototipo\funciones\ingreso.h
+
+1466445648 c:\users\rafa\desktop\prototipo\menu\clientes.h
+
+1466632890 c:\users\rafa\desktop\prototipo\menu\reportes.h
+
+1466704808 c:\users\rafa\desktop\prototipo\menu\proveedores.h
+
+1466704622 c:\users\rafa\desktop\prototipo\menu\articulos.h
+
+1466686900 c:\users\rafa\desktop\prototipo\menu\ventas.h
+
+1466685854 c:\users\rafa\desktop\prototipo\menu\presupuesto.h
+
+1466706430 c:\users\rafa\desktop\prototipo\funciones\configuracion.h
+
+1466685396 c:\users\rafa\desktop\prototipo\menu\agenda.h
+
